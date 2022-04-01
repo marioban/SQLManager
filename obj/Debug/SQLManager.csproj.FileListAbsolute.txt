@@ -1,0 +1,13 @@
+C:\Users\MarioB\Desktop\Faks\3.godina\PPPK\Projekt\PPPK_Project01-MarioBan\SQLManager\bin\Debug\SQLManager.exe.config
+C:\Users\MarioB\Desktop\Faks\3.godina\PPPK\Projekt\PPPK_Project01-MarioBan\SQLManager\bin\Debug\SQLManager.exe
+C:\Users\MarioB\Desktop\Faks\3.godina\PPPK\Projekt\PPPK_Project01-MarioBan\SQLManager\bin\Debug\SQLManager.pdb
+C:\Users\MarioB\Desktop\Faks\3.godina\PPPK\Projekt\PPPK_Project01-MarioBan\SQLManager\obj\Debug\SQLManager.csprojAssemblyReference.cache
+C:\Users\MarioB\Desktop\Faks\3.godina\PPPK\Projekt\PPPK_Project01-MarioBan\SQLManager\obj\Debug\SQLManager.LoginForm.resources
+C:\Users\MarioB\Desktop\Faks\3.godina\PPPK\Projekt\PPPK_Project01-MarioBan\SQLManager\obj\Debug\SQLManager.MainForm.resources
+C:\Users\MarioB\Desktop\Faks\3.godina\PPPK\Projekt\PPPK_Project01-MarioBan\SQLManager\obj\Debug\SQLManager.Properties.Resources.resources
+C:\Users\MarioB\Desktop\Faks\3.godina\PPPK\Projekt\PPPK_Project01-MarioBan\SQLManager\obj\Debug\SQLManager.Query.resources
+C:\Users\MarioB\Desktop\Faks\3.godina\PPPK\Projekt\PPPK_Project01-MarioBan\SQLManager\obj\Debug\SQLManager.SelectResultsForm.resources
+C:\Users\MarioB\Desktop\Faks\3.godina\PPPK\Projekt\PPPK_Project01-MarioBan\SQLManager\obj\Debug\SQLManager.csproj.GenerateResource.cache
+C:\Users\MarioB\Desktop\Faks\3.godina\PPPK\Projekt\PPPK_Project01-MarioBan\SQLManager\obj\Debug\SQLManager.csproj.CoreCompileInputs.cache
+C:\Users\MarioB\Desktop\Faks\3.godina\PPPK\Projekt\PPPK_Project01-MarioBan\SQLManager\obj\Debug\SQLManager.exe
+C:\Users\MarioB\Desktop\Faks\3.godina\PPPK\Projekt\PPPK_Project01-MarioBan\SQLManager\obj\Debug\SQLManager.pdb
